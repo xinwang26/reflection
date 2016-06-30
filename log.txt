@@ -1,0 +1,1529 @@
+commit fa4c6bade4970c282b3870ad16f1bde8164663a9
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Jan 5 14:41:49 2013 +0530
+
+    changing flattr link
+
+commit 708bcce690e5faa5739bd471507c102ea16b77f7
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Dec 31 23:18:16 2012 +0530
+
+    pressing down arrow wont cause scroll down anymore
+
+commit 547f4171a82ec6429d002c1acef357aec41d3f17
+Author: Rishabh Pugalia <rishabh.pugalia@gmail.com>
+Date:   Fri Dec 28 16:27:21 2012 +0530
+
+    refactoring collision detection
+
+commit 71d52709ddc4066e7a79a1d0a412e43429a0cdeb
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Dec 27 11:17:10 2012 +0530
+
+    removing old readme
+
+commit 7c81b8021ec16c5c7b240220314d01200957d605
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Dec 27 11:11:08 2012 +0530
+
+    removing an ad
+
+commit 9c76f50d1aaaa3ac9841286cca2b49bc67f29ae9
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Dec 27 11:08:17 2012 +0530
+
+    updating description, etc.
+
+commit 003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a
+Author: Rishabh Pugalia <rishabh.pugalia@gmail.com>
+Date:   Wed Dec 12 13:59:27 2012 +0530
+
+    speeding clones up
+
+commit 746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91
+Author: Rishabh Pugalia <rishabh.pugalia@gmail.com>
+Date:   Mon Dec 10 14:28:15 2012 +0530
+
+    Update index.htm
+
+commit c12dc49709452bcfb6084b3cc7dc86042cb78ca3
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Dec 1 15:36:57 2012 +0530
+
+    game over was executing even after game over - no need really. lets save memory power
+
+commit 3d4ff5c87b906a5efd83b85d5d5f496864229db0
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Dec 1 10:17:29 2012 +0530
+
+    removing unnecessary files
+
+commit a8591f086afa1db009aaa4398aca14c3b26b72da
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Dec 1 09:43:46 2012 +0530
+
+    last few fixes based on a good player and probably the last commit
+
+commit 031b9145feecb4eec6079bba39815381ce63b40c
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 22:14:47 2012 +0530
+
+    init log wasnt sliding now it does
+
+commit 61f136b94bb98232aad9fc631900460db076018f
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 20:01:10 2012 +0530
+
+    making berries appear more frequently
+
+commit 95dcfabe4ba7ff44fe0178f553dd8457b8f2c197
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 16:46:18 2012 +0530
+
+    fixes
+
+commit 2ad419d9a7357cbaaef822615d41dae6b03dd0b5
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 16:38:31 2012 +0530
+
+    fixing background moving bug after restarts
+
+commit 25ea2a893c8b552cbf380cc362765da4d19131f2
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 15:56:09 2012 +0530
+
+    css changes
+
+commit 8491766239ddf967741f04f88218e535867b4f39
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 15:49:58 2012 +0530
+
+    improving buttons
+
+commit f827e63fe3157ffd40309c20b58ab0af0a616ec9
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 15:37:34 2012 +0530
+
+    adding moar buttons
+
+commit d752d3be909641e85e40a6d0a7821d99815bb96c
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 15:25:58 2012 +0530
+
+    changing image locations
+
+commit ed77f5d35f8b087953c7e2d76943c28c0f7b6349
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 14:41:32 2012 +0530
+
+    added screenshots
+
+commit 21c351bb924e6c2c74d5bebe5dd3bf2c2d0ffa6e
+Author: cbuckey <caroline@udacity.com>
+Date:   Thu Nov 29 16:45:40 2012 -0800
+
+    Add note about modification of repo to README
+
+commit 3ca7942b01fa60e54aa67249a9f7010900c91447
+Author: Rishabh Pugalia <rishabh.pugalia@gmail.com>
+Date:   Sat Dec 1 10:14:39 2012 +0530
+
+    updating readme
+
+commit 2decdcf49dba2e002ba8ecd87ca0046eea48982e
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 14:19:28 2012 +0530
+
+    added promos
+
+commit 0bfc2dbcbb6e94b6dc92ddc550ceb7ba81a433dd
+Author: Rishabh Pugalia <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 14:19:27 2012 +0530
+
+    updating readme
+
+commit c9dc4c848a41503b25b13ff6f337d46d1995f023
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 14:05:17 2012 +0530
+
+    added the 128px icon
+
+commit 83014f4dadb50f403878f8260de6ac763375570f
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 14:17:19 2012 +0530
+
+    updating readme
+
+commit 49966a57cc8efa4d93ff6592cf2d24963f5aff00
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 13:23:06 2012 +0530
+
+    adding a folder for chrome web store
+
+commit acf7e15d3d2d55e663b2c9602cf18c95133fc1d3
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 13:02:23 2012 +0530
+
+    showing last score on screen
+
+commit c7a484e59e05fd97fd539dad51641ed4460de9fd
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 11:39:03 2012 +0530
+
+    sirf improvements yaar
+
+commit adb89c4bd3a9afbdd29b2cfc9476b19c7ad280f8
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 11:37:11 2012 +0530
+
+    implementing death animation
+
+commit 6e79bce446681e7415aacfdcddc152f43fb9e627
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 11:18:57 2012 +0530
+
+    improving controls image
+
+commit cbca2422521ed601fad4565231581d20996573ce
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 11:18:17 2012 +0530
+
+    improving controls image
+
+commit 44d10555820251a19eeab3d114398736f38f13f6
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 30 11:01:13 2012 +0530
+
+    fixing loader
+
+commit 6d69cea11104c011369bc59955e13a0743d4a61b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 10:48:10 2012 +0530
+
+    collectible will just reset now, it wont add up
+
+commit 85b079af16f96e387f199ea13bb576841da4f466
+Merge: d68d31c 674c2c1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 30 10:38:58 2012 +0530
+
+    implementing progress for invincible collectible
+
+commit d68d31cf5544b245d6daa6b0df6dc7fdb9786c98
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 22:09:00 2012 +0530
+
+    getting started with invincible timer
+
+commit 674c2c13571c3efe8e51114a912ec6cdbd9c7921
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 22:04:01 2012 +0530
+
+    implementing mute
+
+commit 802695f5622c6e7c936298036f520a1799ec7379
+Merge: 70f7f8c 43d0731
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 21:31:09 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 70f7f8c83a7707d1daf89dc0f45beb2dd64caa95
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 21:30:40 2012 +0530
+
+    changing fork/branch appearance distancing logic
+
+commit 8514dfd637d73ea9756644f600b5862ef2d26e19
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 21:30:09 2012 +0530
+
+    changing fork/branch appearance distancing logic
+
+commit 43d073191fc340cc0499212b0bb3a7464f5d6811
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 21:27:47 2012 +0530
+
+    fixing loader for safari
+
+commit f9e83b05bfc847ff0dd02263243e3b2285760d3f
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 20:59:13 2012 +0530
+
+    no more 1000 point coins
+
+commit 5aab30c153f2d2cf86686c292a9b44bdc40d8ee5
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 20:01:59 2012 +0530
+
+    fixing clones collision bugs
+
+commit 5d0124d3787b47a17c98d50dc524f439ceec2888
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 20:01:22 2012 +0530
+
+    fixing clones collision bugs
+
+commit 417304fce1ab6a58e4b62a6eaf8f10c746ca6d39
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 18:26:14 2012 +0530
+
+    removing recommended browsers section
+
+commit 5387d818b96be69bea0f1852294d44c0e2962a5b
+Merge: fc4fe53 272987b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 18:11:52 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit fc4fe53ddeeb364b1f820fcd579dda56f482171c
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 18:10:09 2012 +0530
+
+    pappu will fall on game over, never go up
+
+commit 272987b776210361f866ada9427736ec09bcd92c
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 18:04:30 2012 +0530
+
+    fixing weir bugs in IE and Opera
+
+commit d1ba2bc16456b62f84d662d9e83f7f425abe62c9
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 17:11:41 2012 +0530
+
+    moving images to loader
+
+commit d292d2156198635174c9c83fbe7dd2efb9a1b32b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 17:04:51 2012 +0530
+
+    changing init logic based on loader
+
+commit c6f271dd1d38a058a1c254a44e2cf5c4074aee00
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 16:47:49 2012 +0530
+
+    fixing final bug where player couldnt go high on restart cuz the positions of old pakias would stay on top, bad one...
+
+commit cd1e4cbc7be7ad1fa6bb404f7e50ee3d11c2cf9d
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 16:33:03 2012 +0530
+
+    fixing twitter handle
+
+commit c9724703eed4265bb314845d28b0637e4127dab1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 16:30:02 2012 +0530
+
+    fixing pakia collision bugs
+
+commit 8c0c9d6bde18e7a811acde8965b5a84115cd277f
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 15:53:01 2012 +0530
+
+    moving ads
+
+commit a9223728ee1f71148f5a51892529ec1fea8bc93e
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 15:35:03 2012 +0530
+
+    updating readme
+
+commit d8b7ec157ca7d30964d7f51d688988d6a62f1dd1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 15:32:53 2012 +0530
+
+    updating readme
+
+commit ff19d4f4e4df023e8d94ae449bb0a175f6e89584
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 13:03:39 2012 +0530
+
+    style changes
+
+commit c83f5f537cdb1d9728bbea224195562133bfe777
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 12:45:11 2012 +0530
+
+    css change
+
+commit d90ed4a654195727f05a5c62cbd406f3a2679b40
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 11:09:33 2012 +0530
+
+    style chanes
+
+commit 78012449001e8656debbe386e75a2d5fafd02b42
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 10:46:58 2012 +0530
+
+    fixing loader
+
+commit 6331b8a03808b3834638e1bda133f092e146aa6d
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 10:43:17 2012 +0530
+
+    fixing issues
+
+commit 344d45a124a084f883b8515ab0f9b5ad888f299e
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 10:43:01 2012 +0530
+
+    fixing issues
+
+commit 9fdc9a54e966d73b6756c32b731d6b88235aaec3
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 10:42:39 2012 +0530
+
+    fixing issues
+
+commit a0bd0637ae0fa7e3f54f39d2a5ed89b6146250fd
+Merge: 0ab8e5b bbc626d
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 10:39:58 2012 +0530
+
+    merge conflicy
+
+commit 0ab8e5b03df0935c5c2fc176eda23465fe066909
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 29 10:38:05 2012 +0530
+
+    fixing loader in FF
+
+commit bbc626db33edd24273a33c564cdf5fc2426d6d7e
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 10:29:59 2012 +0530
+
+    fixing loader
+
+commit c9ae6886d23ebc733acced436e1ff37e5306d8ea
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Thu Nov 29 10:09:05 2012 +0530
+
+    Changed the font of description
+
+commit 7751adb7d2395edf78d6184ec80b4342ea7bd844
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 23:51:12 2012 +0530
+
+    added highscores
+
+commit 55e9bdd861f2510e479d60e79bdc5d3c5f5d8b8d
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 20:23:35 2012 +0530
+
+    added space control for (re)start
+
+commit bf922f41e840184af930074cbf92496869e6ccc3
+Merge: 3d34b1e def93f9
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 20:15:24 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 3d34b1e24ddff8a9f7352d994ef743c80ea7d56a
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 20:13:38 2012 +0530
+
+    updating description
+
+commit c0fd5cf03167c140b80b49e271e2abce0a1e6772
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 20:12:06 2012 +0530
+
+    fixing collectibles stuck on forks/branches issue
+
+commit def93f98ad339a270a6fd848462f08853625d1b3
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 20:09:42 2012 +0530
+
+    added plank stand
+
+commit 2af5c0dc8b37087c4cf7d14ff01b1625a3c9f683
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 19:55:16 2012 +0530
+
+    fixing loader
+
+commit 9209083047fc354b79ba4d01c8a7007f2e0195a3
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 19:37:28 2012 +0530
+
+    fixing loader
+
+commit 03b91350c3cd9a75d64522d8032d5f91020e1381
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 19:27:52 2012 +0530
+
+    fixing fork positions using whole numbers now
+
+commit a2418fb2372030805c4323be05bcb000010c8add
+Merge: 082a8cb 9261e9c
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 18:39:07 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 9261e9c74da1641ae5b80554e664df4a0e4a6a8f
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 18:37:08 2012 +0530
+
+    updated coins image
+
+commit 082a8cb375b2149fbac55844c4404112a11a2fb2
+Merge: 6785fc2 cc48e47
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 18:34:01 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 6785fc215f833e1d00fd76c7df6071bbf8241d31
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 18:33:11 2012 +0530
+
+    branch moving off canvas issue fixes
+
+commit 50a1b991367d43279a777daa58f0707b0be9d12d
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 18:31:29 2012 +0530
+
+    speed inc based on scores
+
+commit cc48e475e94601bbc202c10d6e0b2c08c21c7486
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 18:31:11 2012 +0530
+
+    updated coins image
+
+commit 735c77f3842afd54ba0fcea16183ab046de9cfb1
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 18:05:24 2012 +0530
+
+    added star image
+
+commit 12abcc373c067434780620e0c7e6207f32d93ced
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 17:22:26 2012 +0530
+
+    extending top kill zone
+
+commit d81bc07b94dea0e009d799bc96c78b756ae7109d
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 17:02:50 2012 +0530
+
+    fixes
+
+commit 90a67fc247eb9bda21971cf047d188b19a90cce4
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 16:34:17 2012 +0530
+
+    fixing flashing of forks and branches
+
+commit a1bb1564c04d7c4287eb1698cd8ebcf2231ec972
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 16:18:26 2012 +0530
+
+    not drawing the grass layer anymore - moar optimizations
+
+commit d5aa4486f64f93e85648eba3944975e26754be5b
+Merge: 0eeb5c6 887b3fd
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 15:31:16 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 0eeb5c6bcdbbfa9597dfbb3c5810d022079f463d
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 15:29:44 2012 +0530
+
+    change in bg image drawing approach. digs for forks have also been removed for perf boost
+
+commit 887b3fd39b2420ea528ec375e4e0ac73aa24725b
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 12:45:58 2012 +0530
+
+    optimizationsss
+
+commit 8670b6fafa2018d681b4c5da44d02dd607c26c88
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 12:24:40 2012 +0530
+
+    optimization tricks
+
+commit a3ffdd841ce75a5a62654d6d6577d1d425230d2f
+Merge: 36c1e62 ef9613a
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 11:18:07 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 36c1e6225e105ef81663e1de266dc17c3adccf89
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 11:17:54 2012 +0530
+
+    added code for adblock users
+
+commit ef9613a1967b4b5d5223f993593d05591aaf394f
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 11:02:20 2012 +0530
+
+    added combined bg image
+
+commit 3ea3e591f6c1a5f87c4bda4dc7d99f8a4e1c7f6b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 10:29:24 2012 +0530
+
+    changing disqus link colors
+
+commit 4174b4a2ad795d253285a7eabd143df37f9dd7e1
+Merge: 68c3cdf 972c059
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 10:15:07 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 68c3cdf8891c2796e40ebc3f5f190a5f24ea4cc4
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 28 10:14:33 2012 +0530
+
+    injecting google ads
+
+commit 972c059dd2c04837e22769ca864fcac73d554c1c
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 00:51:42 2012 +0530
+
+    improved preloader
+
+commit 5f079b2c91fb2e61f7fc8590198a449bf6124af2
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 28 00:44:55 2012 +0530
+
+    added preloader for sounds and images
+
+commit 1591c94de26abf05e0e96b95115cda710114f1fe
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 23:08:47 2012 +0530
+
+    added mp3 version of all sounds to support IE
+
+commit eef3fe051675e8b9e86c88119cd0b2623067d34b
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 22:42:31 2012 +0530
+
+    fixing bugs
+
+commit 13e6cb76225dfad9dbb5d348323904180b485c6c
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 20:52:16 2012 +0530
+
+    add key controls and few other optimizations
+
+commit 6114cd3526e098f837ca93b116e5453348e9985b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 20:07:23 2012 +0530
+
+    not drawin branches and forks if they are out of view port
+
+commit 2d2da5f39cd62fdd4a43a31c514b59231d5eaddb
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 19:59:01 2012 +0530
+
+    optimizing game
+
+commit eaf62c46b8259c1d81c528545af43a4f127cf5ff
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 18:51:00 2012 +0530
+
+    quick fixes
+
+commit 1eb5373020e6fcd1ce54f0329f0e3571ae3f12d2
+Merge: 11b48e4 6ff695e
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 18:48:12 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 11b48e48e59454759d67fd900042ba37f56018c1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 18:46:33 2012 +0530
+
+    implementing pulls/pushes form pakias
+
+commit 6ff695e6f421275528d44f8b0021810e32c4ddaa
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 17:51:21 2012 +0530
+
+    tweet and fb buttons now work
+
+commit bbf5292b9bfd2220c7a907df582666140a4d8b25
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 17:03:16 2012 +0530
+
+    fixing touch controls
+
+commit 9a02ea8e410aede4e63106a2e2abec2f52784ffa
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 16:56:37 2012 +0530
+
+    fixing touch controls
+
+commit 3e6f994679dbb019c7a90baee18324e3097a32ce
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 16:49:05 2012 +0530
+
+    trying touch events
+
+commit 0517d52079141fef671a810b85ea40e16186936a
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 16:39:35 2012 +0530
+
+    Added collectibles sound
+
+commit b0e07fcc25b513b86678091674666f187f0cb4c3
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 16:21:48 2012 +0530
+
+    adding disqus
+
+commit dd3e20c53ae2ba5599370ec1518cd810b4fee0d5
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 16:01:19 2012 +0530
+
+    updated descrption
+
+commit 63b26d58c7e8d7f12da213b0a723874ca905d33d
+Merge: eda3584 134d2dc
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 16:00:37 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit eda35842a049eecd7e6716c0b10f510dfd81b1db
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 15:59:53 2012 +0530
+
+    added images for coins
+
+commit 134d2dcbe9c261b8688e3b0c2fba1f0d872538c4
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 15:58:30 2012 +0530
+
+    added keyboard control image
+
+commit 990e96cf6253ccb5e84b90bd3f342660de6935b7
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 15:51:20 2012 +0530
+
+    improved coins image
+
+commit c7017a1613bd011c6862aa4466d1c0de6a1a0504
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 15:46:07 2012 +0530
+
+    coins image added
+
+commit 8711703958ade12f7f557e3f54213845751e0c92
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 15:37:20 2012 +0530
+
+    adding social icons
+
+commit bf3e1bafcbd24ea3e85ec313747ec9cfcd6691df
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 15:33:29 2012 +0530
+
+    adding social icons
+
+commit 09c9e35a1bc2b186c0a2081c308306f9968c4a67
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 15:19:55 2012 +0530
+
+    adding GA
+
+commit 21988bc3f522c3caec3730118bf5f387d4c0aef0
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 14:45:09 2012 +0530
+
+    description update
+
+commit 3f2400a3e26a58d92e4d34cf409cbbedc57a78c4
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 14:39:52 2012 +0530
+
+    fixes
+
+commit be63d56907d963b158218cab4a0fc39ad4935d3d
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 14:38:47 2012 +0530
+
+    changed description
+
+commit 0443e67f83c9be9bb2977a6d1388eaa1adb1c33d
+Merge: 7c5b11c 7f64826
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 14:36:00 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 7c5b11c6ac1f7e98a2506cdba15fd58fff387b74
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 27 14:35:34 2012 +0530
+
+    adding berries and apples
+
+commit 7f648263baf92d122ade36154020664f6888ae73
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 14:31:33 2012 +0530
+
+    collectibles sound added
+
+commit d611827f79a482853a8f8274dab9bd59be4d8c17
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 13:39:16 2012 +0530
+
+    added berries image
+
+commit 432ef5c817927ff96c7c25fbb2d57e11964691e2
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 27 13:30:00 2012 +0530
+
+    added apple image
+
+commit 1768ad3a7d907265129da5b645f316993c3eb255
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 26 16:21:53 2012 +0530
+
+    credits updates
+
+commit a26814f1efed12dc06f43d96eaf61beb7f1d68f1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 26 16:19:41 2012 +0530
+
+    quick fix
+
+commit 6b8ea6370eafcd737d3edd4914df916922fe254a
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 26 16:16:22 2012 +0530
+
+    quick fix
+
+commit 5f7bcc141b201eafd69a87c6665aad9e8a1a8c6f
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 26 16:14:56 2012 +0530
+
+    quick fix
+
+commit 56627e21d24238925847f0905696bd753e724f39
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 26 16:13:23 2012 +0530
+
+    proper cloning collectible implementation done
+
+commit 19e1f75318a5e5040b800c7e6f21f60009643401
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 26 14:52:28 2012 +0530
+
+    changing credits
+
+commit 1b4c3b9aaa66b07631e33c3e51fe1034b17d237b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 26 14:44:22 2012 +0530
+
+    added coins and invincible collectibles
+
+commit 10dc1910dc91e717abcbbcc4652f90fc373591f0
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 20:02:15 2012 +0530
+
+    progress on collectibles
+
+commit 92896f1bb329c381550a03aa90c77d40390e0325
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 18:09:09 2012 +0530
+
+    getting starting with base collectible class
+
+commit 44da941e08a0792841b0de23e6dffc2214294f0c
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 16:23:11 2012 +0530
+
+    changing gravity for pakias
+
+commit 71503ffbd1f43ca96c69f18efcc69467c7642f75
+Merge: 7069268 ba542fd
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 16:06:27 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 70692687a47012326a0c9b27705bbae752fb0d2b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 16:05:22 2012 +0530
+
+    fixing branch positiuonings
+
+commit ba542fd8b51f384d64e032056ba8a96236d24c96
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 15:59:32 2012 +0530
+
+    fixing mp3 link for IE
+
+commit 83cbc59e1028d7aed4d418f56f8742e7a60282c6
+Merge: 65b53cb f633aa8
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 15:53:58 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 65b53cbc2333f7aafa920083a3ded5221e35b5c8
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 15:53:38 2012 +0530
+
+    fixing positioning of forks and branches so that they do not overlap
+
+commit f633aa8e7a8364437cb3ec261b6b41d2d99e317e
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 15:51:33 2012 +0530
+
+    increasing font size in footer
+
+commit fea11cef146412244c0889a640fbc00aac33e28d
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 15:47:45 2012 +0530
+
+    Amplified jump1.ogg
+
+commit c585fa1a3fd9057b4dd236aa569226f3cb676303
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 13:03:47 2012 +0530
+
+    credit link changes
+
+commit 83ef35256d7457ab35083ac569a4c3b142e80dce
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 12:46:02 2012 +0530
+
+    commenting out branches temporarily
+
+commit 2acfe4a2f8e8ad8599bdc013689f24b56ee60315
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 12:04:33 2012 +0530
+
+    Adding flapping sound
+
+commit 532f05e677953ad2d0ef75ee22e3e258cd49daa2
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sun Nov 25 11:49:22 2012 +0530
+
+    adding moar credits
+
+commit 1c88617620b118d9dad8c93dbbef52cb94fa9809
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 10:10:10 2012 +0530
+
+    changing music
+
+commit 7eb59157a8d5c2f575d889c1b2f01e3f4de0a33f
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 00:49:42 2012 +0530
+
+    improving gameplay
+
+commit 145757d89b8732f3d37aacf606d82d3b4bc6da35
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sun Nov 25 00:32:26 2012 +0530
+
+    Adding pakia sounds (home recorded) and improving overall gameplay
+
+commit ed41dd994da10a3c4b4b5fb0866550d52279e85c
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sat Nov 24 22:53:04 2012 +0530
+
+    Improving gameplay
+
+commit 39d7175137432bbc39050badaa01672c084f1920
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sat Nov 24 22:52:15 2012 +0530
+
+    Improving gameplay
+
+commit ef2aaffb371c4221e6b958e79338e354ec3bf2e1
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sat Nov 24 22:43:19 2012 +0530
+
+    Improved pappu's sprite animation and rotation
+
+commit afcadaf53ac58d6e5b5f24f575d31893d6566da9
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sat Nov 24 22:16:41 2012 +0530
+
+    Working on game music
+
+commit 5d8a925d52861b1c9546c21c46e4ebaa3968a206
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sat Nov 24 22:10:51 2012 +0530
+
+    Adding start music
+
+commit a31d3f71b91a618bfa99fd0c26237aa108e629c2
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 22 14:57:27 2012 +0530
+
+    changing score board alignment and pakia coordinate movements
+
+commit fa5194c6b351ba165437a5ce754215732986ec52
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 22 14:40:53 2012 +0530
+
+    fork head collisions made less austere
+
+commit 72edd56d860238a9e15cc950798e3ad407f76735
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 22 14:25:07 2012 +0530
+
+    rotating pappu on gameplay
+
+commit 0f2f06fa851b4bb692a33d39a96b339346510d02
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Thu Nov 22 14:07:46 2012 +0530
+
+    changing the order of loading JS files
+
+commit 2d86762328a4dc9c44d45121b0457010a9e9c34c
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 20:39:10 2012 +0530
+
+    implementing pakia collision
+
+commit 9408a75b5ef320a3c02538c742fffe723d359425
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 20:14:33 2012 +0530
+
+    changing pappu sprites
+
+commit ddc3486765d5bc5deb7a194debeaae84ee923740
+Merge: d489fa4 5221292
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 20:03:45 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit d489fa48dbca153ec7a64998d8b04443291f37ad
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 20:03:38 2012 +0530
+
+    fixing background related dependency codez and all
+
+commit 52212929a7f7a55d1cc79fb22983708823bbd3e5
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 21 19:58:54 2012 +0530
+
+    Added new graphics
+
+commit 144549490634153f3e0e99f3f2e5f87589c9eda1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 19:56:26 2012 +0530
+
+    rewritin backgrounds code
+
+commit dfe1d7aa95be5999e2e579483ab534f297256c0b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 19:43:03 2012 +0530
+
+    rewriting pappu
+
+commit be74e5499ac6657b08a139923631dc159dd4d8d7
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 19:39:21 2012 +0530
+
+    updating readme
+
+commit 7d25010dcd6f989a250b414758e0366b1610689b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 19:31:47 2012 +0530
+
+    improvin logix on the distantiation between branches and forks
+
+commit 435576352500abdccacb095ff20bb6196adeb5e9
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 19:09:58 2012 +0530
+
+    things comin alon dam nicely
+
+commit addfdd99d0a459e2d9028fd1cbe5b62ad555f002
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 18:46:59 2012 +0530
+
+    switching on branch collisions again
+
+commit b25eee07cf64388b490fc541532f7ce6054523f9
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 18:44:40 2012 +0530
+
+    distancing (lol) branches with forks properly
+
+commit e78cc924e5b292bb34df909f610282ff409bee23
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 21 17:04:28 2012 +0530
+
+    Improved fork head
+
+commit 587aaf8fda5b92f7d8e8e267613d8d10398fa033
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 17:02:50 2012 +0530
+
+    fork head will not push now - can be frustrating for users
+
+commit 9e43e5306ada0b50771bf7aeba486009a1fccb3a
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 16:52:52 2012 +0530
+
+    trying to improve branch head collisions
+
+commit d73c761689e0054bcc4612e0fc4eed221e1c156e
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 21 15:51:17 2012 +0530
+
+    improving forks code
+
+commit 42b352bbbb7711bfa85404b6ddd48ed549132564
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 20 20:15:26 2012 +0530
+
+    improving pakia play
+
+commit 17bcadd679d2e5d6bcad5b118db8a96329754a1e
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 20 20:04:16 2012 +0530
+
+    improving pakia play
+
+commit 0bea731578fc290279631884a95ab4e4ccd3790b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 20 20:00:08 2012 +0530
+
+    improving pakia play
+
+commit 46a5ed57464b199120251ef16f0dcecbcf7226ea
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 20 18:02:33 2012 +0530
+
+    little prototype for gettin in pakias
+
+commit 3446030d0c984729b51713036e3a98aaf405ed1a
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Tue Nov 20 12:28:02 2012 +0530
+
+    Adding pakiya images
+
+commit c3ac0df24bbc5e37cf4b6b4830e6e6c49f599789
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 19 15:28:02 2012 +0530
+
+    implementing branches collisions
+
+commit a4fd7687cfb8c79e7ecbaf734d1d4d4d6d74f605
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Mon Nov 19 14:41:58 2012 +0530
+
+    trying to implement pushes on hitting fork heads
+
+commit d86e41bb2d05e8c7108ca4f2f4d489b13ffc69ee
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Mon Nov 19 01:31:09 2012 +0530
+
+    trying to fix forks flashing bug
+
+commit a1e1206b1e6d22eb680fd4dd15f3dc52edaedf22
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Mon Nov 19 01:13:12 2012 +0530
+
+    improved pappu's control
+
+commit a589081a036791615e61afcff0f6854d732578c5
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 17 19:14:18 2012 +0530
+
+    getting started with forks collisions
+
+commit 7456840b05994d4da4b7b7b2eb95844b3df026a2
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Sat Nov 17 18:38:56 2012 +0530
+
+    Fixed fork handle
+
+commit 9caea72e773f53a93527eeb750831d51caef5659
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 17 17:12:45 2012 +0530
+
+    credit link styling
+
+commit 2b81b64c73f546762fb9fe8f423dbb4b42ba6920
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 17 17:05:02 2012 +0530
+
+    getting spacing inside branches through which pappu will pass
+
+commit 567ae41824c18677965ccdd5dc05f7391f80abbe
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 17 16:28:06 2012 +0530
+
+    added readme
+
+commit d401b182d7111c49f3383766ba11e3d21dcf5faf
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 17 16:15:11 2012 +0530
+
+    adding fork heads
+
+commit ef86ce07457d90775fcb378e7a5a23afe2a7803d
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 17:47:48 2012 +0530
+
+    footer credit info changed
+
+commit 0d0a8b58e51cff07b4d075a8c46abf833d7c7c73
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 17:45:03 2012 +0530
+
+    footer credit info changed
+
+commit 3c1bc6364ef77a19792b0de23fa43b3ada8c6a90
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 17:11:11 2012 +0530
+
+    added some credit info in the demo footer
+
+commit 35fb48e9c2ef17dc6aaefe4a9370937c6d9c3e63
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 16:58:06 2012 +0530
+
+    increasing speeds
+
+commit 131ba3d67990a4e14e4add9175e29a5e94f7e78b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 16:21:11 2012 +0530
+
+    show forks on game start
+
+commit 983fefbc78c9c17beffe2b0ba09fa21892b3a847
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 16:17:14 2012 +0530
+
+    adding random X axis distance for forks and branches
+
+commit 92c30c0ffeaf6eda265e9c58eebfd31168830360
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 16:06:37 2012 +0530
+
+    getting started with branches
+
+commit 325563424f6cc4fe24eae613946b980182cb720d
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 16 15:58:11 2012 +0530
+
+    Added branch image
+
+commit 6ac7a84dadeee93f42c8a0860aaa05c05683079c
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Fri Nov 16 15:48:18 2012 +0530
+
+    Fixed dig image
+
+commit 0cc853ee0a4ac0b699778b643261dcf6951bdd73
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Fri Nov 16 14:50:57 2012 +0530
+
+    getting started with forks
+
+commit d204ff2e5ec980d42d62bf428b642f4a745738f4
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 19:29:42 2012 +0530
+
+    implementing restart
+
+commit 41755a1ee0812ef2ec32a6892a8c4e1e0cdcd045
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 19:19:21 2012 +0530
+
+    fixing issues - -- score -- clicking anywhere started the game -- log moved slower than ground
+
+commit 07decf7e448ce2d87926ba0bcd43e3ee633883a2
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 19:02:45 2012 +0530
+
+    implemented initial log on which pappu sits
+
+commit 7c8531f38b6afdc82053daa209d71b2b7e0f6cf3
+Merge: d05f6a3 c2807e1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 18:25:36 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit c2807e14b9edcaff2155a2c2c3a54cbfbbf3ca47
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 14 18:20:18 2012 +0530
+
+    added grass
+
+commit d05f6a3b2b4a273fa86b8a234549247ff3031539
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:47:40 2012 +0530
+
+    centering tap/mouse image on startup screen
+
+commit 70074981e71aa90cf36e30d44b73f7307c8b6cf0
+Merge: 4113dc7 514a82b
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:42:08 2012 +0530
+
+    Merge branch 'master' of https://github.com/mindd-it/game-off-2012
+
+commit 4113dc767a8d2d4d476d5fab0aa8580b72c0b5f0
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:40:18 2012 +0530
+
+    changing tweet and fb links
+
+commit 514a82ba0a7b7c0fdc2c3852a041f8e003baaf22
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 14 17:36:06 2012 +0530
+
+    improved menu
+
+commit 0f3a5b7a755b5a5572d09b14b6a2a8b722864cff
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 14 17:35:07 2012 +0530
+
+    Added controls info on menu
+
+commit 3bb3448dac0f0045b656444fd9bda65d20e7dedf
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:29:59 2012 +0530
+
+    changing credits links styles
+
+commit 606ce0361400cdff4a19395246e0d8f2cf782f72
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:29:05 2012 +0530
+
+    setting event capturing to false in all addEventListeners
+
+commit e8116987424c62fe5c8bb127dd3bcf1ff112b551
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 14 17:28:51 2012 +0530
+
+    Added log and controls images
+
+commit 43498f4f987b0375fe017cb18ab77fb793a0d916
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:23:02 2012 +0530
+
+    implementing score
+
+commit 6ec864ac041e148754eaa5fe4bbab4128de18fe2
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:17:30 2012 +0530
+
+    adding score board
+
+commit 2e7e9ee9c1a17addf388268f81bfd2955551ddf7
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 17:02:02 2012 +0530
+
+    improving start screen
+
+commit 2af760b94d2775a8b33a02d961714c053bfa07d2
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 16:53:25 2012 +0530
+
+    improving start screen
+
+commit 57fa718fa68af49ab6f2984d56acb8f3a0a0ecc1
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 14 16:24:52 2012 +0530
+
+    Added fork image
+
+commit 189a18d4d2a9aefdab382a3cb599f1769da848d8
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 14 16:12:02 2012 +0530
+
+    Removed planks stand from the menu
+
+commit 1981daf5c866fdf603d13bbca93ca60f6a8d783f
+Author: Kushagra Agarwal <kushagra666@gmail.com>
+Date:   Wed Nov 14 16:05:15 2012 +0530
+
+    Added main menu / start screen
+
+commit d2831cce6655b7300e5008ce6d82ecd1805dc5f4
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 15:03:34 2012 +0530
+
+    beginning of start screen
+
+commit 2187ebb62869408765eb14159057653d6fe65c81
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 14:46:46 2012 +0530
+
+    pappu flapping slower now
+
+commit 1d9cc20a84631c7bd8c303800e4cfb356db4aa4e
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 14:45:16 2012 +0530
+
+    pappu flapping slower now
+
+commit b243670dc349bacec12f78d27940fbae6817013f
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 14:42:51 2012 +0530
+
+    pappu flapping slower now
+
+commit 2a43d7a44f1b3567c40e12f0a8aa53928bb93a7a
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 14:29:35 2012 +0530
+
+    pappu flapping slower now
+
+commit 4c0a483e838603f6104250d0357ca85252e34fe2
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 14:21:26 2012 +0530
+
+    changing sprite for pappu
+
+commit 71eef6e2b9a5f4ebf471dbcea388e50d7372dc5a
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 14:02:32 2012 +0530
+
+    adding sprite animation
+
+commit fe26fe74b1d6cfdf11bc8151bb0c1bb0b76b1fd6
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 13:14:22 2012 +0530
+
+    adding pappu sprite
+
+commit 9537d5b9850383443ec8b86ba4182fc8b3514029
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 12:59:58 2012 +0530
+
+    gameplay with mouse clicks
+
+commit b134f770fccca4613e459234f1cf7d2bc7c442b0
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Wed Nov 14 12:18:40 2012 +0530
+
+    moving pappu code to its own script file
+
+commit 27b6d55add86d82a2abc742ecf4a50a3481bd08a
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 13 14:15:19 2012 +0530
+
+    animating background layers
+
+commit ddf316a4f488eb46c8f4dfb2640aa856c70d0fe3
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Tue Nov 13 13:00:44 2012 +0530
+
+    adding backgrounds
+
+commit ca7045c6740bc3ebf25034c59b2a5848a880f7f1
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 3 13:55:55 2012 +0530
+
+    implementing logic for random forks
+
+commit f400bc4d67492e9185b32cb899275d85ab6b24ec
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 3 10:27:32 2012 +0530
+
+    getting started with forks
+
+commit 619109c549c96c20d140eb981e7c0e8be11f4f60
+Author: Rishabh <rishabh.pugalia@gmail.com>
+Date:   Sat Nov 3 08:57:19 2012 +0530
+
+    initial commit - last time repo had issues, so I deleted that repo and re-created. just clone once again
+
+commit 4e225c3408dc2313c9d20e841726126070a513eb
+Merge: 15b02d7 5ec6ccf
+Author: Lee Reilly <lee@github.com>
+Date:   Sat Oct 27 09:32:56 2012 -0700
+
+    Merge pull request #30 from supki/master
+    
+    Fix typo.
+
+commit 5ec6ccf8bea924069913d8a2f7275b0fb1dfb3e3
+Author: Matvey Aksenov <matvey.aksenov@gmail.com>
+Date:   Sat Oct 27 13:22:48 2012 +0400
+
+    typo
+
+commit 15b02d758aec9a0e47f3e20090663b2f250e9546
+Merge: b9cf18d 0b91c29
+Author: Jared Koumentis <jared@github.com>
+Date:   Fri Oct 26 19:02:35 2012 -0700
+
+    Merge pull request #29 from dafyddcrosby/fix-typo
+    
+    fix typo
+
+commit 0b91c293af28fbcd80a96681a80fe349dd721a22
+Author: Dafydd Crosby <dtcrsby@gmail.com>
+Date:   Fri Oct 26 19:55:24 2012 -0600
+
+    fix typo
+
+commit b9cf18d207c04361d88387cde3fd5a020e9f8461
+Author: Lee Reilly <lee@github.com>
+Date:   Thu Oct 25 10:42:38 2012 -0700
+
+    Clarify the URL/description guideline
+
+commit a0ae05b20d205c20e2af8d768ae84c78e8aefe3d
+Author: Lee Reilly <lee@github.com>
+Date:   Thu Oct 25 10:33:11 2012 -0700
+
+    :punch: typo
+
+commit 0fda9f064d5f5309b207230af69858e21891afae
+Author: Lee Reilly <lee@github.com>
+Date:   Thu Oct 25 10:23:10 2012 -0700
+
+    Sync README with blog post
+
+commit dec593f69b0c75c7fad7e0ecd02e2f7d7ed639e2
+Author: Lee Reilly <lee@github.com>
+Date:   Thu Oct 25 01:13:42 2012 -0700
+
+    Update README.md
+
+commit bc0091187fe036cc80099b6d45f6fde334f2e61e
+Author: Lee Reilly <lee@github.com>
+Date:   Thu Oct 25 01:13:09 2012 -0700
+
+    Sync README with blog post
+
+commit f67c51e2fbb532dac33e75fead62a75a7157e90e
+Author: Lee Reilly <lee@github.com>
+Date:   Tue Oct 16 16:40:01 2012 -0700
+
+    Add comments and questions section
+
+commit d79f1a903bb7d371b7fec205459e64cbc6a82e4a
+Author: Lee Reilly <lee@github.com>
+Date:   Tue Oct 16 16:34:01 2012 -0700
+
+    Add unique Twitter hashtag
+
+commit 78afb24d743e02ad1bfe2a138074d8f63b7232fd
+Author: Lee Reilly <lee@github.com>
+Date:   Fri Jul 20 15:59:00 2012 -0700
+
+    Initial commit
